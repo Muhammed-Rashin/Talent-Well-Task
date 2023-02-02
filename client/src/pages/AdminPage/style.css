@@ -1,0 +1,21 @@
+.admin-navbar {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 100%;
+  border: 1px solid black;
+}
+.admin-nav {
+  text-align: center;
+  width: 50%;
+}
+.main{
+    padding: 3rem;
+}
+.add-tes{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 8rem;
+    border: 1px solid black;
+    padding: 3rem;
+}

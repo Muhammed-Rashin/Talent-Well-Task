@@ -1,3 +1,3 @@
 ## Routes
-/
-/admin
+### `/`
+### `/admin`
